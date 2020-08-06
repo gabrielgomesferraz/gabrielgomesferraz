@@ -6,5 +6,5 @@
   </samp>
   <br>
   <br>
-  <img width="280px" src="https://raw.githubusercontent.com/gabrielgomesferraz/gabrielgomesferraz/master/assets/images/rainbow_rocketman.gif" />
+  <img width="280px" src="https://raw.githubusercontent.com/gabrielgomesferraz/gabrielgomesferraz/master/assets/images/rocket.gif" />
 </p>
