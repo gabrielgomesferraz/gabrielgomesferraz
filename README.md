@@ -5,7 +5,6 @@
     :wave: Hi there! I'm Front End Developer. :smile:
   </samp>
   <br>
-  <br>
 </p>
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielgomesferraz&show_icons=true&theme=dracula)
