@@ -9,4 +9,4 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielgomesferraz&show_icons=true&theme=dracula)
  
-<img width="495" src="https://raw.githubusercontent.com/gabrielgomesferraz/gabrielgomesferraz/master/assets/images/rocket.gif" />
+<img width="495" height="195" src="https://raw.githubusercontent.com/gabrielgomesferraz/gabrielgomesferraz/master/assets/images/rocket.gif" />
