@@ -87,5 +87,7 @@
     src="https://github-readme-stats.vercel.app/api?username=gabrielgomesferraz&show_icons=true&locale=en"
     alt="gabrielgomesferraz" /></p>
 
-<p><img align="center" width="97.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielgomesferraz&"
+<p><img align="left" width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielgomesferraz&show_icons=true&locale=en&layout=compact"
     alt="gabrielgomesferraz" /></p>
+    
