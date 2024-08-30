@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Front End Developer</h1>
+<h3 align="center">Hi 👋, I'm Front End Developer</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h5 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/gabrielgomesferraz" target="blank"
     ><img
