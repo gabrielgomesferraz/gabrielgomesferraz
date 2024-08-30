@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Front End Developer</h1>
 
-<h5 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/gabrielgomesferraz" target="blank"
     ><img
@@ -12,7 +12,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
