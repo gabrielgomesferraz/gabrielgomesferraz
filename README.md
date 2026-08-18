@@ -11,16 +11,3 @@
       width="40"
   /></a>
 </p>
-
-<p align="left">
-  <img
-    width="52.5%"
-    src="https://github-readme-stats.vercel.app/api?username=gabrielgomesferraz&show_icons=true&locale=en"
-    alt="gabrielgomesferraz"
-  />
-  <img
-    width="47%"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielgomesferraz&show_icons=true&locale=en&layout=compact"
-    alt="gabrielgomesferraz"
-  />
-</p>
